@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: service-second
+  zipkin:
+      base-url: http://192.168.1.32:8111
+server:
+  port: 8202
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://192.168.1.32:8765/eureka/
+  instance:
+      #
+      # 生产环境下不建议修改以下两项，更改Eureka更新频率将会打破服务器的自我保护功能
+      #
+      # 续约更新时间间隔（默认30秒）
+      lease-renewal-interval-in-seconds: 10
+      # 续约到期时间（默认90秒）
+      lease-expiration-duration-in-seconds: 30
+#hystrix这个配置坑了我好久我用的Spring Cloud是Dalston版本SR1，
+#比网上其他材料的版本要新，因为在新版本中Feign对Hystrix的支持默认是关闭的，
+#所以要通过配置手动打开feign.hystrix.enabled=true，这样服务降级等功能才有效果。
+#摘自：http://blog.csdn.net/yejingtao703/article/details/77748190
+#feign:
+#  hystrix:
+#    enabled: true
