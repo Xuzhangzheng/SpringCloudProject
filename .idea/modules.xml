@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudEurekaServer/SpringCloudEurekaServer.iml" filepath="$PROJECT_DIR$/SpringCloudEurekaServer/SpringCloudEurekaServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringCloudProject.iml" filepath="$PROJECT_DIR$/SpringCloudProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceSecond/SpringCloudZipKinServiceSecond.iml" filepath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceSecond/SpringCloudZipKinServiceSecond.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/SpringCloudZipKinServiceThird.iml" filepath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/SpringCloudZipKinServiceThird.iml" />
     </modules>
   </component>
 </project>

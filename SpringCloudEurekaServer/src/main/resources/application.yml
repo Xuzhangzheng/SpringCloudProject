@@ -1,0 +1,18 @@
+server:
+  port: 8765
+eureka:
+  instance:
+    hostname: springCloudEurekaServer
+    leaseRenewalIntervalInSeconds: 1
+    leaseExpirationDurationInSeconds: 2
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+  server:
+    # true 开启自我保护  ； false  关闭自我保护
+    # 默认 true
+    enable-self-preservation: false
+    # 清理无效节点时间间隔（单位毫秒，默认是60秒）
+    eureka.server.eviction-interval-timer-in-ms: 1000

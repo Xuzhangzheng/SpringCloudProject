@@ -9,6 +9,7 @@
       <list>
         <option value="$PROJECT_DIR$/SpringCloudZipKinServiceSecond/pom.xml" />
         <option value="$PROJECT_DIR$/SpringCloudZipKinServiceThird/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCloudEurekaServer/pom.xml" />
       </list>
     </option>
   </component>

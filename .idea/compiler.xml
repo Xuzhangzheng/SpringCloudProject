@@ -22,11 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="SpringCloudZipKinServiceSecond" />
-        <module name="SpringCloudZipKinServiceThird" />
+        <module name="SpringCloudEurekaServer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Eureka" target="1.8" />
+      <module name="SpringCloudEurekaServer" target="1.8" />
       <module name="SpringCloudZipKinServiceSecond" target="1.8" />
       <module name="SpringCloudZipKinServiceThird" target="1.8" />
     </bytecodeTargetLevel>
