@@ -1,0 +1,15 @@
+server:
+  port: 8880
+spring:
+  application:
+    name: config-client
+  cloud:
+    config:
+      #指明远程仓库的分支
+      label: master
+      profile: dev
+      uri: http://localhost:8966/
+      discovery:
+        enabled: true
+        serviceId: config-server
+      name: config-server

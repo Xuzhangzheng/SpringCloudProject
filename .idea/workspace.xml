@@ -2,53 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="513b193f-9c72-4409-ae71-01a7d182c0e6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SpringCloudEurekaServer/src/main/resources/application.yml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_assistedinject_4_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_grapher_4_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_multibindings_4_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_governator_governator_1_12_10.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_governator_governator_api_1_12_10.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_governator_governator_core_1_12_10.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_1_10.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_java_zipkin_1_19_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter_zipkin_reporter_0_6_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter_zipkin_sender_urlconnection_0_6_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_animal_sniffer_annotation_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_9_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_1_8_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_1_8_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_2_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_2_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_1_2_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_core_1_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_zipkin_1_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_1_8_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_archaius_1_2_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_server_1_2_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_2_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_2_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_sleuth_1_1_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zipkin_1_1_3_RELEASE.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServer/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServer/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServer/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServer/mvnw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServer/mvnw.cmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServer/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServer/src/main/java/com/zzx/SpringCloudZipKinServerApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServer/src/main/resources/application.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServer/src/test/java/com/zzx/SpringCloudZipKinServerApplicationTests.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceFirst/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceFirst/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceFirst/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceFirst/mvnw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceFirst/mvnw.cmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceFirst/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceFirst/src/main/java/com/zzx/SpringCloudZipKinServiceFirstApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceFirst/src/main/java/com/zzx/core/server/SearchService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceFirst/src/main/java/com/zzx/web/controller/ZipKinController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceFirst/src/main/resources/application.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceFirst/src/test/java/com/zzx/SpringCloudZipKinServiceFirstApplicationTests.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceSecond/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceSecond/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceSecond/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceSecond/mvnw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceSecond/mvnw.cmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceSecond/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceSecond/src/main/java/com/zzx/SpringCloudZipKinServiceSecondApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceSecond/src/main/java/com/zzx/core/server/DealwithService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceSecond/src/main/java/com/zzx/web/controller/SearchController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceSecond/src/main/resources/application.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceSecond/src/test/java/com/zzx/SpringCloudZipKinServiceSecondApplicationTests.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/mvnw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/mvnw.cmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/src/main/java/com/zzx/SpringCloudZipKinServiceThirdApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/src/main/java/com/zzx/web/controller/DealwithController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/src/main/resources/application.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/src/main/resources/banner.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/src/test/java/com/zzx/SpringCloudZipKinServiceThirdApplicationTests.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SpringCloudProject.iws" />
@@ -133,10 +128,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -155,9 +146,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringCloudProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringCloudProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Config&amp;Bus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,7 +177,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Feign/SpringCloudEurekaClient" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Config&amp;Bus/SpringCloudConfig" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -641,11 +650,15 @@
       <workItem from="1512722974045" duration="893000" />
       <workItem from="1512974055563" duration="4857000" />
       <workItem from="1513040942950" duration="6166000" />
+      <workItem from="1513131495670" duration="6438000" />
+      <workItem from="1513215392030" duration="53000" />
+      <workItem from="1513576273205" duration="1840000" />
+      <workItem from="1513733743474" duration="668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18225000" />
+    <option name="totallyTimeSpent" value="27224000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1096" extended-state="6" />
@@ -654,29 +667,29 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -696,82 +709,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/src/main/java/com/zzx/web/controller/DealwithController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/src/main/java/com/zzx/SpringCloudZipKinServiceThirdApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/src/main/resources/banner.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/src/test/java/com/zzx/SpringCloudZipKinServiceThirdApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/.mvn/wrapper/maven-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/mvnw">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/.idea/.name">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServer/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/src/main/java/com/zzx/web/controller/DealwithController.java" />
+    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/src/main/java/com/zzx/SpringCloudZipKinServiceThirdApplication.java" />
+    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/src/main/resources/banner.txt" />
+    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/src/test/java/com/zzx/SpringCloudZipKinServiceThirdApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/.mvn/wrapper/maven-wrapper.properties" />
+    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/mvnw" />
+    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/.idea/.name" />
+    <entry file="file://$PROJECT_DIR$/ZipKin&amp;Feign/SpringCloudZipKinServiceThird/.idea/misc.xml" />
     <entry file="file://$PROJECT_DIR$/Eureka/SpringCloudEurekaClientFirst.iml" />
     <entry file="file://$PROJECT_DIR$/Eureka/SpringCloudEurekaClient/src/main/java/com/xiduoduo/web/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -779,7 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,7 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -795,7 +745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -817,7 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -839,7 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -847,7 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -855,7 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -863,23 +808,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ribbon/SpringCloudSpringRibbon/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Ribbon/SpringCloudSpringRibbon/src/main/resources/application.properties" />
     <entry file="file://$PROJECT_DIR$/Ribbon/SpringCloudSpringRibbon/src/test/java/com/xiduoduo/SpringCloudSpringRibbonApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -887,7 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -895,7 +830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -903,7 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -911,7 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -919,7 +851,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -927,7 +858,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -935,7 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -943,7 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -951,7 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -959,7 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -967,7 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -975,7 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -983,7 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -991,23 +914,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Feign/SpringCloudFeign/src/main/java/com/xiduoduo/web/serivce/SearchService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Feign/SpringCloudFeign/src/main/java/com/xiduoduo/web/serivce/SearchService.java" />
     <entry file="file://$PROJECT_DIR$/Feign/SpringCloudFeign/src/main/java/com/xiduoduo/web/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1015,7 +929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1023,7 +936,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1031,7 +943,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1039,7 +950,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1047,7 +957,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1055,7 +964,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1063,7 +971,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,22 @@
+server:
+  port: 8880
+spring:
+  application:
+    name: config-client1
+  cloud:
+    config:
+      #指明远程仓库的分支
+      label: master
+      profile: dev
+      #uri: http://192.168.1.32:8966/
+      discovery:
+        enabled: true
+        serviceId: config-server
+      name: config-server
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://192.168.1.32:8765/eureka/
+management:
+  security:
+    enabled: false
